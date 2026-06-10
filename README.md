@@ -51,7 +51,6 @@ It helps users:
 <p align="left">
   <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 
